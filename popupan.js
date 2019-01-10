@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://smileland.vn/du-an/du-an-one-verandah-mapletree-thanh-my-loi-quan-2/;
+	var url_popup = 'https://smileland.vn/du-an/du-an-one-verandah-mapletree-thanh-my-loi-quan-2/';
 
       //<![CDATA[
 	  // var url_ppp = 'https://smileland.vn';
